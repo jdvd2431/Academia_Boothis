@@ -28,7 +28,7 @@
                    <div class="overlay">
                        <div class="inner">
                            <h2 class="title">Bienvenido</h2>
-                           <h1>Si esto funciona julian la chupa!</h1>
+                           <h1>Sebastian es un hpta sapo perro enano</h1>
                            <p></p>
                            <br>
                        </div>
